@@ -1,10 +1,17 @@
 # CS300-DB-Systems-Work
 
 Reuqirements:
-      Python 3.7 or later
-      Microsoft SQL Server
-      Microsoft SQL Server Management Studio
-      PYODBC Database connector for python
+      -Python 3.7 or later
+      -Microsoft SQL Server
+      -Microsoft SQL Server Management Studio
+      -PYODBC Database connector for python
+
+Included:
+      -DML and DDL Scripts for creatingthe Database in SQL Server and inserting basic data for testing purposes.
+      -SQL scripts for creating stored procedures used and called in the python application
+      -Excel document of data for testing purposes
+      -Python Application for interacting with the database
+      -2 Visio files; these are database diagrams from the planning stages of this project; there is a version 1 and a version 2 due to revisions during that time.
 
 My final project from a SQL Database Management course (CS300) I took in Fall of 2018 at Bellarmine University in Louisville, Kentucky.
 
